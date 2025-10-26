@@ -1,0 +1,4 @@
+Name: John Doe
+Email: john.doe@example.com
+Phone: +1 234-567-8901
+Skills: Python, Data Analysis, Machine Learning, SQL
